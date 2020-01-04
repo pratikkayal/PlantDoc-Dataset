@@ -29,4 +29,4 @@ Object detection dataset uploaded at  [Link](https://github.com/pratikkayal/Plan
 ```
 
 ## License
-Apache License 2.0 [Link](https://github.com/pratikkayal/PlantDoc-Dataset/blob/master/LICENSE) 
+Creative Commons Attribution 4.0 International [Link](https://github.com/pratikkayal/PlantDoc-Dataset/blob/master/LICENSE.txt)
