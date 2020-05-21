@@ -24,9 +24,6 @@ Object detection dataset uploaded at  [Link](https://github.com/pratikkayal/Plan
     archivePrefix={arXiv},
     primaryClass={cs.CV}
 }
-
-
-
 ```
 
 ## License
